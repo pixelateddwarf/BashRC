@@ -1,0 +1,2 @@
+# BashRC
+My Bashrc file

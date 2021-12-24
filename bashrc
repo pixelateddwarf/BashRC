@@ -4,8 +4,8 @@
 # Pixelated Dwarf                                                                # 
 # Basic Bashrc file                                                              #  
 #                                                                                #
-# Date: Mar 5, 2021                                                              #
-# Revision: 134                                                                  #
+# Date: Dec 23, 2021                                                              #
+# Revision: 135                                                                  #
 ##################################################################################
 
 # Source global definitions -- do this first because we overwrite some defaults
